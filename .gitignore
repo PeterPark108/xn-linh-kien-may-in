@@ -1,0 +1,5 @@
+*.zip
+*.tar*
+*.log
+.env*
+node_modules/
